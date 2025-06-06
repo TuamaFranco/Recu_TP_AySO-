@@ -1,0 +1,1237 @@
+clear
+pwd
+ls
+ls -l
+ls -la
+ls -a
+cd repogit
+pwd
+ls -a
+cd /
+pwd
+ls -a
+cd etc/
+ls -a
+cat passwd
+man pwd
+aproposs useradd
+cd /
+cd etc
+cd $HOME
+pwd
+apropos useradd
+clear
+man pwd
+history
+clear
+history
+clear
+ls
+cd carpeta compartida
+cd carpeta_compartida/
+cd $HOME
+pwd
+ls
+ls -a
+cd carpeta_compartida/
+ls -a
+cd $HOME
+pwds
+pwd
+clear
+cd /
+pwd
+ls
+cd etc/
+ls -la
+pwd
+clear
+pwd
+clear
+pwd
+ls
+ls -la
+cat README
+cat << FIN
+linea 1 
+linea 2
+linea 3
+FIN
+
+cat << FIN
+linea 1 
+linea 2
+lineea 3
+FIN
+
+cat << FIN > clase3.txt
+linea 1 
+linea 2
+linea 3
+FIN
+
+cat clase3.txt 
+ls
+cat << FIN > clase3.txt 
+linea 4
+linea 5
+FIN
+
+cat clase3.txt 
+cat << FIN >> clase3.txt 
+linea 1
+linea 2
+linea 3
+FIN
+
+cat clase3.txt 
+cd carpeta_compartida/
+ls
+history
+history > historial.txt
+ls
+cat historial.txt 
+echo "hola"
+cat historial.txt 
+echo "hola" >> historial.txt 
+cat historial.txt 
+bc <<< 1+2
+bc <<< 5*4
+cat << FIN > clase2.txt
+hola
+bc <<< 4*2
+FIN
+
+cat clase2.txt 
+bc <<< 4*2 >> clase2.txt 
+cat clase2.txt 
+tac clase3
+cat clase2.txt 
+tac clase2.txt 
+pwd
+ls
+wc
+clear
+w
+pwdcle
+cleaclear
+clear
+cd $HOME
+history
+cat clase3.txt 
+cclarclsdasddasd
+clea
+clecpdpwfsppppppperasdsaswd
+arcdccdf
+f
+sfr
+eOMMcat cfsadac
+fsdfaas
+e
+eadcladreareeeeee
+ra
+cccclfscat ccadwdww
+pwppppp
+vagrant status
+pwd
+vagrant status
+status
+pwd
+clear
+pwd
+ls
+cat clase3.txt 
+cat << FIN > clase1.txt
+hola
+chau
+FIN
+
+ls
+echo "hola mundo"
+echo "hola mundo" | wc
+cat clase3.txt
+tail clase3.txt
+tail clase3.txd
+cat clase3.txt | tail -n2
+cat clase3.txt | tail -n3
+cat clase3.txt | tail -n1
+cat clase3.txt | tail -n5
+cat clase3.txt | tail -n6
+cat clase3.txt | tail -n3
+tac clase3.txt | tail -n3
+cat clase3.txt | head -n3
+cat historial
+cat historial.txt
+history
+cat history > historial.txt
+history > historial.txt
+cat historial.txt 
+cat historial.txt | head -n5
+cat historial.txt | tail -n10
+cat historial.txt | grep hol
+cd ..
+ls
+ls -la
+cd $HOME
+ls
+cd carpeta_compartida/
+pwd
+ls
+cat clase2.txt 
+cat clase2.txt | grep 4
+cat << FIN > clase1
+linea 1
+linea 2
+linea 3
+FIN
+
+cat << FIN > clase3
+FIN
+
+lwd
+pwd
+ls
+cat casle3
+cat clase3
+cat clase3 << FIN >> clase3.txt
+linea 4
+linea 5
+linea 6
+FIN
+
+ls
+cat clase3.txt | grep linea
+cat clase3.txt
+cat clase3
+FIN
+cat clase2.txt 
+cat clase3.txt
+cat clase3.txt << FIN > 
+linea 4
+linea 5
+linea 6
+FIN
+
+cat clase3.txt
+ls
+cat clase1
+cat clase3.txt
+cat clase3.txt << FIN >>
+linea 45
+linea 6
+FIN
+
+FIN
+ls
+cat clase3.txt
+cat << FIN >> clase3.txt
+linea 4
+linea 5
+linea 6
+FIN
+
+cat clase3.txt
+cat clase3.txt | grep line
+cleart
+clear
+history
+cat clase3.txt | grep -i line
+cat clase3.txt | grep -i LINE
+cd /
+ls
+cd proc/
+ls
+cd cpuinfo
+cat cpuinfo 
+grep -i AM
+ls
+pwd
+ls
+pw
+p
+pwddp
+clear
+pwd
+ls
+cd clases_facultad/
+ls
+cd clases/
+ls
+cat clase3.txt 
+cd clases
+cat historial.txt 
+clear
+pwd
+cd $HOME
+pwd
+ls
+mkdir clase4.txt
+ls
+cd clase4.txt
+ls
+cat >> FIN < clase4.txt
+cat << FIN > clase4.txt
+ls
+hola como
+estas 
+soy fernan
+el crack
+FIN
+
+ls
+cd FIN
+cat FIN
+ls
+cd clase4.txt
+cat clase4.txt 
+rmdir FIN
+rmdir -r FIN
+rm FIN
+ls
+cd /
+ls
+cd dev
+ls -l
+clear
+lwd
+pwd
+ls
+find .block
+find . block
+find block
+grep 7
+id
+whoami
+userdel usuario1
+sudo userdel usuario1
+sudo useradd -c "programador java" -m -s /bin/bash usuario2
+cat /etc/passwd
+ls
+$home
+ls
+cd ..
+ls
+sudo passwd usuario 2
+sudo passwd usuario2
+su usuario2/
+p
+su usuario2
+sudo usermod -s /bin/bash usuario1
+cat /etc/passwd
+ps -ef
+ps -ef | grep 3159
+ps -ef | grep usuario2
+sudo userdel usuario2
+sudo kill -9 2886
+ls -l
+sudo mkdir prueba
+ls -l
+pwd
+ls
+cd ..
+ls
+sudo mkdir prueba
+ls -l
+cd prueba
+ls
+cd.
+cd .
+cd ..
+ls prueba
+cd prueba/
+sudo mkdir readonly writeonly noexec
+ls
+sudo chmod 754 readonly
+sudo chmod 752 writeonly
+sudo chmod 753 writeonly
+sudo chmod 750 noexec
+cd ..
+ls
+ls -la
+git --version
+clear
+ls
+clear
+pwd
+cd home
+cd $home
+ls
+cd clase4.txt
+ls
+rm clase4.txt 
+ls
+cd ..
+ls
+rmdir -r clase4.txt
+rmdir clase4.txt
+ls
+vim clase4.txt
+cd clase4.txt
+cat calse4.txt
+ls
+cd clase4.txt
+cat clase4.txt
+ls -l
+sudo chmod 111 clase4.txt
+ls -l
+sudo chmod 740 clase4.txt
+ls -l
+sudo chmod 744 clase4.txt
+ls -l
+ls -l | grep "clase4*"
+sudo chown usuario1 clase4.txt
+ls -l
+sudo chown :mecanicos clase4.txt
+ls -l
+cd ..
+ls
+ls -l
+cd ..
+ls
+ls -l
+sudo vim hola.txt
+cat hola.txt
+ls -l
+sudo chown :mecanicos hola.txt
+ls -l
+cd home/
+ls
+ls -l
+sudo vim holaa.txt
+ls -l
+sudo chown :mecanicos holaa.txt
+ls -l
+sudo chmod 640
+sudo chmod 640 holaa.txt
+ls -l
+cat holaa.txt 
+cat /etc/group
+su usuario2
+
+mkdir c:/AySO
+git clone https://github.com/sofiasartori/UTN-FRA_SO_Examenes
+script_Precondicion.sh
+./UTN-FRA_SO_Examenes/script_Precondicion.sh
+clear
+git init
+git remote add origin https://github.com/FrancoTuama/Franco.git
+git branch -M main
+git add README
+git commit -m "Agrego README"
+git config --global user.email"francotuama2005@gmail.com"
+git config --global user.name "Franco"
+git add README
+git commit -m "primer commit"
+git push -u origin main
+git commit -m "asdasd"
+git commit -m "Primer archivo"
+pwd
+ls
+cd clase4/
+ls
+git push origin main
+clear
+ssh-keygen
+cd
+pwd
+cd $hom4
+pwd
+cd $HOME
+pwd
+cd home
+cd /home/
+pwd
+cd ..
+pwd
+ls
+cd $HOME
+pwd
+ls
+cd UTN-FRA_SO_Examenes/
+ls
+cd
+pwd
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+sudo apt install git
+git --version
+git clone git@github.com:FrancoTuama/Franco.git
+cp README
+cp README Franco
+ls
+cd Franco
+ls
+cd README
+cd README.md
+ls
+cat README
+cat README.md
+ls
+clear
+ls
+cd .
+ls
+cp README
+ls -la
+git status
+mkdir hola
+ls
+cd hola
+cat << FIN >> 
+hola
+FIN
+
+ls
+pwd
+cd hola
+pwd
+cd $HOME
+ls
+ls -la
+cd .ssh
+ls -la
+cd Franco/
+ls
+ls -la
+git status
+git add README
+git add README.md
+git status
+git commit -m "hola"
+git push origin main
+cd $HOME
+cp README.md Franco/
+echo "prueba" > README.md
+ls
+cp README.md Franco/
+ls
+git add README
+git status
+clear
+fffls
+dsa
+ls
+git add clase1.txt
+git commit -m "agrego clase1"
+git add .
+git push origin master
+git push origin main
+ls
+git add ejemplo3
+git commit -m "hola"
+find ~ -name punto1
+ls
+cd punto1
+ls
+pwd
+git add punto1
+vim hola.txt
+ls
+git add punto1
+git add hola.txt
+git commit -m "agrego hola.txt"
+git push origin main
+ls
+cd punto1/
+ls
+rm hola.txt
+ls
+git rm hola.txt
+git commit -m "elimine hola.txt"
+cd ~/Recu_TP_AySO-
+cd $HOME
+ls
+git rm hola.txt
+git add -u
+git commit -m "elimine punto1 y hola"
+git push origin main
+ls
+rm clase4.txt
+ls
+rm -r clase4.txt
+ls
+git rm clase1.txt
+ls
+find clase1.txt
+git commit -m "borre"
+git push origin main
+ls
+rm clase4
+ls
+rmdir -r clase4
+rmdir -R clase4
+rmdir
+rmkdir
+rm clase4
+rmdir clase4
+ls
+cd clase4
+ls
+find clase4.txt
+ls
+cd $HOME
+ls
+history
+find se agrega
+find clase4.txt
+find clase4
+cd /
+ls
+cd .ssh
+cd hola.txt
+rm "hola clase4.txt"
+find . -name "hola clase4.txt"
+find . -name "clase4.txt"
+ls -l clase4.txt
+find . -name "clase4.txt"
+git rm clase4.txt
+cd $HOME
+fatal: not a git repository (or any of the parent directories): .git
+vagrant@VMPruebas:/$
+git comimt -m "s"
+git commit -m "s"
+git push origin main
+ls
+pwd
+cat Recu_TP_AySO-
+ls
+cd carpetas
+ls
+cd clase4
+ls
+cd ..
+cd carpteas
+cd carpetas
+ls
+cd $home
+cd clase4
+ls
+cd 
+cd clases_facultad/
+ls
+cd clases
+ls
+cd
+cd ej
+ls
+cd
+cd repogit
+ls
+cd clases/
+ls
+cd
+find . -name "clase4.txt"
+git pull origin main
+git rm clase4.txt
+git commit -m "elimine clase 4"
+git push origin main
+cd
+ls -l
+cd repogit
+ls
+cd UTN-FRAN_SO_onBording
+ls
+cd clases
+ls
+clear
+git clone https://github.com/sofiasartori/UTN-FRA_SO_Examenes
+cd
+ls
+./UTN-FRA_SO_Examenes/script_Precondicion.sh
+chmod +x ./UTN-FRA_SO_Examenes/script_Precondicion.sh
+./UTN-FRA_SO_Examenes/script_Precondicion.sh
+source ~/.bashrc
+cd
+ls
+cd Recu_TP_AySO-
+cat Recu_TP_AySO-
+pwd
+cat Recu_TP_AySO-
+ls
+cd 
+ls
+pwd
+cd
+cd Recu_TP_AySO-
+ls -la
+cd
+ls
+cd README
+ls
+cat README
+cat rm README
+rm README
+ls
+rm README.md
+ls
+vim README
+ls
+cd README
+cat README
+cd ~/Recu_TP_AySO
+cd Recu_TP_AySO-
+git add README
+git commit -m "Añadi el README con mis datos"
+git push
+vim Punto_A.sh
+ls
+tree Punto_A.sh 
+LS
+cat Punto_A.sh 
+pwd
+ls
+cat Punto_A.sh 
+tree /datos/
+tree /datos
+cd
+ls
+mkdir -p /datos//{textos/{libros,revistas},videos/{peliculas,series}}
+sudo 
+sudo mkdir -p /datos/
+ls
+sudo mkdir -p /{textos/{libros,revistas},videos/{peliculas,series}}
+sudo mkdir -p /datos//{textos/{libros,revistas},videos/{peliculas,series}}
+ls
+mkdir hola
+ls
+cd clases_facultad/
+ls
+mkdir -p /datos/{textos/{libros,revistas},videos/{peliculas,series}}
+ls
+ls -l
+cd clases
+ls
+cd
+ls
+rm hola
+rmdir hola
+ls
+mkdir datos
+ls
+cd datos
+ls
+mkdir -p datos/{textos/{libro,revistas},videos/{peliculas,series}}
+ls
+cd datos
+ls
+cd
+ls
+tree datos
+rmdir datos
+rmdir -r datos
+rmdir -R datos
+cd
+ls
+cat Punto_A.sh 
+ls
+rm Punto_A.sh 
+ls
+vim Punto_A.sh
+ls
+./Punto_A.sh
+sudo ./Punto_A.sh
+chmod +x Punto_A.sh
+./Punto_A.sh
+cat Punto_A.sh 
+git add Punto_A.sh 
+git commit -m "Agregue el punto A"
+git push origin main
+cat /etc/passwd
+cat /etc/group
+ls
+sudo groupadd p1c1_2024_g1
+cat /etc/group
+cd
+ls
+vim Punto_B.sh
+useradd usuarioclave1
+sudo useradd usuarioclave1
+passwd usuarioclave1
+sudo passwd usuarioclave1
+pwd
+ls
+cd /etc/shadow
+cat /etc/shadow
+sudo cat etc/shadow
+sudo cat /etc/shadow
+cd
+ls
+cat Punto_b.sh
+rm Punto_b.sh
+cat Punto_B.sh
+vim Punto_b.sh
+ls
+chmod +x Punto_B.sh
+ls
+./Punto_B.sh
+vim Punto_B.sh 
+ls
+cat Punto_B.sh
+clear
+pwd
+pwdwd
+ls
+vim Punto_B.sh
+pwd
+ls
+cat Punto_b.sh
+cd
+ls
+cd $home
+ls
+ls *l
+ls -l
+ls
+vim Punto_b.sh
+rm Punto_b.sh
+vim Punto_b.sh
+sudo groupadd grupo1
+sudo groupadd grupo2
+sudo useradd -m -G grupo2 -s /bin/bash passwd
+sudo useradd -m -G grupo2 -s /bin/bash p1c1_2024_u1
+sudo useradd -m -G grupo2 -s /bin/bash p1c1_2024_u1_bis
+sudo psswd p1c1_2024_u1_bis
+sudo pswd p1c1_2024_u1_bis
+sudo passwd p1c1_2024_u1_bis
+sudo /etc/shadow
+sudo cat /etc/shadow
+sudo grep p1c1_2024_u1_bis
+sudo grep (p1c1_2024_u1_bis) /etc/shadow | awk -F ':' '{print $2}'
+sudo grep p1c1_2024_u1_bis /etc/shadow | awk -F ':' '{print $2}'
+ls
+vim Punto_b.sh
+cat Punto_B.sh
+cat Punto_b.sh
+vim Punto_b.sh
+cat Punto_A.sh
+vim Punto_b.sh
+ls
+sudo chmod 777
+sudo chmod 777 Punto_b.sh
+ls
+./Punto_b.sh
+vim Punto_b.sh
+./Punto_b.sh
+vim Punto_b.sh
+./Punto_b.sh
+ls
+./Punto_b.sh
+cat /etc/passwd
+pwd
+ls
+Punto_b.sh
+vim Punto_b.sh
+git add Punto_b.sh
+git c
+git commit -m "agrego punto b"
+git push origin main
+cat /etc/shadopw
+cat /etc/shadow
+sudo cat /etc/shadow
+ls
+s
+ls
+ffls
+ls
+clear
+ls
+vim Punto_c_sh
+sudo groupadd p1c1_2024_Todos
+chown -c p1c1_2024_Todos p1c1_2024_u1
+sudo chown -c p1c1_2024_Todos p1c1_2024_u1
+sudo chown -c p1c1_2024_u1 p1c1_2024_Todos
+sudo usermod -g p1c1_2024_Todos p1c1_2024_u1
+ls
+cat /etc/passwd
+sudo groupadd p1c1_2024_Todos
+chown -g p1c1_2024_Todos p1c1_2024_u1
+sudo chown -g p1c1_2024_Todos p1c1_2024_u1
+sudo chown -g p1c1_2024_todos p1c1_2024_u1
+sudo chown -g p1c1_2024_u1 p1c1_2024_Todos
+sudo chown -g p1c1_2024_Todos p1c1_2024_u1
+sudo chown -g p1c1_2024_u1 p1c1_2024_Todos
+man chown
+chown -c p1c1_2024_Todos p1c1_2024_u1
+chown -c p1c1_2024_u1 p1c1_2024_Todos
+sudo groupadd p1c1_2024_Todos
+sudo usermod -g p1c1_2024_Todos p1c1_2024_u1
+id p1c1_2024_u1
+vim Punto_c.sh
+sudo mkdir -p Ejercicio_D/{rx,tx{1..20},rx/{1..10}}
+ls
+tree Ejercicio_D
+tree Ejercicio_D/ --noreport | pr -T -s' ' -w 80 --column 4
+cd
+mkdir -p ~/EstructuraAsimetrica/rx/extras{1..100}
+ls
+tree EstructuraAsimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+mkdir -p ~/EstructuraAsimetrica/{rx,tx{1..20},rx/{1..100}}
+ls
+tree EstructuraAsimetrica/
+mkdir -p ~/EstructuraAsimetrica/{rx,tx extras{1..20},rx/{1..100}}
+tree Ejercicio_D/ --noreport | pr -T -s' ' -w 80 --column 4
+tree EstructuraAsimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+clear
+ls
+mkdir -p ~/Simetrica/{rx,tx extras{1..20},rx/{1..100}}
+ls
+tree Simetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+ls
+cd clase4
+ls
+clear
+ls
+mkdir -p /Ejercicio_D/{rx,tx{1..20},rx/extras{1..100}}
+sudo mkdir -p /Ejercicio_D/{rx,tx{1..20},rx/extras{1..100}}
+ls
+pwd
+cd
+ls
+tree Ejercicio_D
+clear
+ls
+rmdir Ejercicio_D
+rmdir -R Ejercicio_D
+rmdir -r Ejercicio_D
+rm Ejercico_D
+sudo rm Ejercico_D
+sudo rm -r Ejercico_D
+sudo rm -rf Ejercico_D
+ls
+mkdir -p /Ejercicio_Dbis/{rx,tx extras{1..20},tx/extras{1..100}}
+sudo mkdir -p /Ejercicio_Dbis/{rx,tx extras{1..20},tx/extras{1..100}}
+ls
+tree Ejercicio_Dbis
+sudo mkdir -p /Ejercicio_Dbis/{rx,tx extras{1..20},tx/extras{1..100}}
+ls
+cat Ejercicio_Dbis
+clear
+ls
+sudo mkdir -p Ejercicio_Dbis/{rx,tx extras{1..20},tx/extras{1..100}}
+ls
+tree Ejercicio_Dbis
+tree Ejercicio_Dbis/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo mkdir -p Ejercicio_Dbis/{rx/lotes_{1..20},rx/extras_{1..100},tx/lotes_{1..20}}
+ls
+tree Ejercicio_Dbis/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo mkdir -p Ejercicio_Dbis4/{rx/lotes_{1..20},rx/extras_{1..100},tx/lotes_{1..20}}
+tree Ejercicio_Dbis4/ --noreport | pr -T -s' ' -w 80 --column 4
+clear
+vim Punto_D.sh
+chmod 777 Punto_D.sh
+ls
+./Punto_D.sh
+./Punto_A.sh
+sudo ./Punto_A.sh
+vim Punto_D.sh
+sudo ./Punto_D.sh
+./Punto_D.sh
+chmod 777 Punto_D.sh
+ls -l Punto_D.sh
+cat Punto_d.sh
+vim Punto_D.sh
+./Punto_D.sh
+cat Punto_D.sh
+vim Punto_D.sh
+ls
+vim Punto_D.sh
+git add Punto_D.sh
+git commit -m "Subo punto D"
+git push origin main
+ls
+cd
+mkir Punto_E
+mkdir Punto_E
+ls
+cd Punto_E/
+ls
+cat << FIN > Filtro.basico.txt
+FIN
+
+cd
+grep -i proce /proc/cpuinfo
+cat/proc/info
+cat/proc/cpuinfo
+sudo cat/proc/cpuinfo
+cat /proc/info
+cd
+cat /proc/cpuinfo
+grep 'model name\|cpu MHz' /proc/cpuinfo 
+grep 'model name\|cpu MHz' /proc/cpuinfo | head -2
+ls
+cd Punto_E
+ls
+cat >> FIN << Filtro.basico.txt
+grep 'model name\|cpu MHz' /proc/cpuinfo | head -2
+grep MemTotal /proc/meminfo
+FIN
+ls
+LS
+ls
+exit
+Exit
+EXIT
+
+clear
+sds
+vim Punto_E.sh
+cd Punto_E
+ls
+pwd
+vim Punto_E.sh
+ls
+cd $home
+find Ejercicio_D
+cat Ejercicio_D
+cd Ejercicio_D
+ls
+cd $home
+ls
+cd Puntoe_E
+ls
+cd Punto_E
+ls
+cd 
+vim Punto_E.sh
+cat ~/Punto_E/Filtro_basico.txt
+ls
+cd Punto_E
+ls
+cat Filtro.basico.txt
+ls
+cat Punto_E.sh
+pwd
+chmod +x ~/Punto_E/Punto_E.sh
+ls
+cat Punto_E.sh
+./Punto_E.sh
+vim Punto_E.sh
+pwd
+ls
+cd Punto_E
+ls
+cat Filtro.basico.txt
+ls
+cat Punto_E.sh
+cat ~/Punto_E/Filtro_basico.txt
+~/Punto_E/Punto_E.sh
+pwd
+ls
+~
+ls
+pwd
+cd Punto_E
+ls
+vim Punto_E.sh
+ls
+chmod +x ~/Punto_E/Punto_E.sh
+ls
+~/Punto_E/Punto_E.sh
+ls
+./ Punto_E.sh
+./Punto_E.sh
+ls -l Punto_E.sh
+chmod +x Punto_E.sh
+ls -l Punto_E.sh
+./Punto_E.sh
+cd ~/Punto_E
+chmod +x Punto_E.sh
+./Punto_E.sh
+cd ~/Punto_E
+chmod +x Punto_E.sh
+./Punto_E.sh
+pwd
+ls -l Punto_E.sh
+cat Punto_E.sh
+chmod +x Punto_E.sh
+./Punto_E.sh
+bash Punto_E.sh
+head Punto_E.sh
+bash ~/Punto_E/Punto_E.sh
+ls
+cd
+ls
+./Punto_E.sh
+rm Punto_E.sh
+ls
+rm Punto_E
+ls
+cd Punto_E
+ls
+./Punto_E.sh
+ls
+cat Punto_E.sh
+rmdir -r Punto_E
+rm -r Punto_E
+rm -rf ~/Punto_E
+ls
+pwd
+cd
+ls
+clear
+mkdir -p ~/Punto_E
+ls
+cd Punto_E/
+cat << 'EOF' > Punto_E.sh
+#!/bin/bash
+
+# Guardar sólo la línea con el total de memoria RAM
+grep '^MemTotal:' /proc/meminfo > ~/Punto_E/Filtro_basico.txt
+
+# Agregar la primera línea con el modelo del microprocesador
+grep -m1 'model name' /proc/cpuinfo >> ~/Punto_E/Filtro_basico.txt
+
+# Agregar la primera línea con la frecuencia del microprocesador
+grep -m1 'cpu MHz' /proc/cpuinfo >> ~/Punto_E/Filtro_basico.txt
+pwd
+ls
+ls
+
+cd Punto_E
+ls
+vim Punto_E.sh
+ls
+chmod +x Punto_E.sh
+ls
+./Punto_E.sh
+cat ~/Punto_E/Filtro_basico.txt
+head -3 Punto_E.sh
+grep '^MemTotal:' /proc/meminfo > ~/Punto_E/Filtro_basico.txt
+ls -ld ~/Punto_E
+grep '^MemTotal:' /proc/meminfo > ~/Punto_E/Filtro_basico.txt
+cat ~/Punto_E/Filtro_basico.txt
+grep -m1 'model name' /proc/cpuinfo >> ~/Punto_E/Filtro_basico.txt
+grep -m1 'cpu MHz' /proc/cpuinfo >> ~/Punto_E/Filtro_basico.txt
+cat ~/Punto_E/Filtro_basico.txt
+./Punto_E.sh
+ls
+./Punto_E.sh
+vim Punto_E.sh
+~/Punto_E/Punto_E.sh
+bash -x ~/Punto_E/Punto_E.sh
+vim Punto_E.sh
+bash -x ~/Punto_E/Punto_E.sh
+vim Punto_E.sh
+whoami
+vim Punto_E.sh
+~/Punto_E/Punto_E.sh
+cat /home/vagrant/Punto_E/Filtro_basico.txt
+cat Punto_E.sh
+cat /home/vagrant/Punto_E/Filtro_basico.txt
+cat Punto_E.sh
+git add Punto_E.sh
+git commit -m "PuntoE"
+git pull origin main
+git push origin main
+cd ..
+ls
+mkdir Punto_F
+ls
+cd Punto_F
+ls
+grep "model name" /proc/cpuinfo | head -1
+curl -s ifconfig.me
+proc/cpuinfo
+cat /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -1
+grep "cpu MHz" /proc/cpuinfo | head -1
+ls
+pwd
+ls
+cat > ~/Punto_F/Filtro_Avanzado.txt
+pwd
+ls
+cat Filtro_Avanzado.txt
+rm Filtro_Avanzado.txt 
+ls
+cat > ~/Punto_F/Filtro_Avanzado.txt
+Mi ip publica es: 182.125.65.120
+CPU Modelo: i5-8250U Frecuencia: 1.60GHz
+clear
+cat > ~/Punto_F/Filtro_Avanzado.txt
+clear
+pwd
+ls
+cat Filtro_Avanzado.txt 
+rm Filtro_Avanzado.txt 
+ls
+cat > ~/Punto_F/Filtro_Avanzado.txt
+ls
+cat Filtro_Avanzado.txt 
+cd .
+ls
+cd .
+ls
+cd $home
+ls
+cd Punto_F
+ls
+cat Filtro_Avanzado.txt 
+Dirección IP Pública: $(curl -s ifconfig.me)
+curl -s ifconfig.me
+curl -s ifconfig.me | awk '{print $0}'
+cat proc/cpuinfo
+cat proc/cpu info
+cat proc/cpuinfo
+sudo cat proc/cpuinfo
+sudo cat procc/cpuinfo
+cat/proc/cpuinfo
+cat/proc/cpu info
+cat /proc/cpuinfo
+cat /proc/cpuinfo | grep 'model name' && cat /proc/cpuinfo | grep 'cpu MHz'
+ls
+cat /proc/cpuinfo | grep 'model name' | head -1 && cat /proc/cpuinfo | grep 'cpu MHz' | head -1
+ls
+cat Filtro_Avanzado.txt 
+ls
+rm Filtro_Avanzado.txt 
+ls
+cat >> FIN > Filtro_Avanzado.txt
+ls
+cat Filtro_Avanzado.txt 
+rm FIN
+rm Filtro_Avanzado.txt 
+cat >> FIN > Filtro_Avanzado.txt
+ls
+cat Filtro_Avanzado.txt 
+vim Punto_F.sh
+ls
+chmod +x Punto_F.sh
+ls
+./Punto_F.sh
+cd
+cat Punto_F.sh
+ls
+cd Punto_F
+ls
+sudo cat Punto_f.sh
+sudo cat Punto_F.sh
+cd
+git add Punto_F.sh
+git add .
+git status
+ls
+git add Punto_F
+git commit -m "subo ejercicio F"
+git push origin main
+cd Punto_F
+ls
+rm FIN
+ls
+git add Punto_F
+ls $home
+cd ..
+ls
+git add Punto_F
+git commit -m "subo ejercicio f"
+git push origin main
+history -a
+ls
+cp ~/.bash_history ./Historial_comandos_Tuama.txt
+git add .
+git rm --cached -r .ssh/Franco
+git rm --cached .ssh/Franco
+ls
+clear
